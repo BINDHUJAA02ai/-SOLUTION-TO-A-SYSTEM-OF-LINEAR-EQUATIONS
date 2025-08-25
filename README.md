@@ -26,7 +26,8 @@ solution = np.linalg.solve(A, B)
 print(np.round(solution, decimals=0))
 ```
 ## Output:
-<img width="588" height="205" alt="image" src="https://github.com/user-attachments/assets/d585614e-cd4f-4dc1-9c4f-348e58fcc491" />
+<img width="1270" height="935" alt="image" src="https://github.com/user-attachments/assets/684152d2-9844-4dcb-ab33-0f96961862f4" />
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
